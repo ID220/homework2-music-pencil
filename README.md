@@ -78,6 +78,8 @@ Here are some tips:
 
 2. To draw the "component" between **PENCIL_A** and **PENCIL_B** you can either use a resistor and call it the `user's body`, or you can draw a small image of a body with two connectors attached to it.
 
+3. Try to avoid spaghetti-style schematics and instead use names to reference to nets.
+
 ## Submission and grading
 
 You have to submit the following items:
